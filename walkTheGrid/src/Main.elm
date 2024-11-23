@@ -1,4 +1,4 @@
-module Main exposing (main, calculateFirstIntersection)
+module Main exposing (main, calculateFirstIntersection, calculateFinalLocation)
 
 import Html exposing (Html)
 
